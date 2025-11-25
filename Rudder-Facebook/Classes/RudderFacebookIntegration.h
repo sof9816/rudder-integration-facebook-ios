@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <Rudder/Rudder.h>
+@import Rudder;
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
 
 
